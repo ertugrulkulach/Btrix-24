@@ -1,5 +1,5 @@
 package tests;
-//added line 2 from github 
+//added line 2 from githubb
 public class poll {
 
 
